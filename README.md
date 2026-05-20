@@ -1,5 +1,6 @@
 
 📸 Face Recognition Attendance System
+
 🧾 Overview
 
 The Face Recognition Attendance System is a smart automated attendance management application that uses computer vision and face recognition to mark attendance without manual effort. It detects faces through a camera, matches them with stored data, and records attendance in a database.
@@ -7,6 +8,7 @@ The Face Recognition Attendance System is a smart automated attendance managemen
 This system is designed for schools, colleges, and organizations to make attendance faster, more accurate, and secure.
 
 🚀 Features
+
 👤 Face detection and recognition in real-time
 
 📷 Capture and store face data for new users
@@ -30,6 +32,7 @@ HTML / CSS / JavaScript (or React if used)
 Backend:
 
 Node.js
+
 Express.js
 
 Database:
