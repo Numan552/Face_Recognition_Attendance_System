@@ -1,0 +1,24 @@
+========================================
+  AI FACE ATTENDANCE SYSTEM
+  Configured for XAMPP MySQL
+========================================
+
+This project uses XAMPP MySQL (no password required).
+
+QUICK START:
+1. Start XAMPP → click Start next to MySQL
+2. Go to http://localhost/phpmyadmin
+3. Create database: face_attendance_db
+4. Import: database/schema.sql
+5. Open VS Code terminal:
+     cd server && npm install && npm run dev
+6. Open second terminal:
+     cd client && npm install && npm start
+7. Open http://localhost:3000
+
+LOGIN:
+  Admin:   admin@university.edu  /  Admin@123
+  Teacher: rahim@university.edu  /  Teacher@123
+
+For detailed steps read: SETUP.md
+========================================
