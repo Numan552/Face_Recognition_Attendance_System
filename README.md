@@ -8,12 +8,19 @@ This system is designed for schools, colleges, and organizations to make attenda
 
 🚀 Features
 👤 Face detection and recognition in real-time
+
 📷 Capture and store face data for new users
+
 🧑‍🎓 Register multiple students/employees
+
 🕒 Automatic attendance marking with timestamp
+
 📊 Attendance history tracking
+
 🗂️ Organized backend structure (Node.js/Express + MySQL)
+
 🌐 REST API support for frontend integration
+
 🛠️ Tech Stack
 
 Frontend:
@@ -32,21 +39,10 @@ MySQL (XAMPP)
 Libraries:
 
 OpenCV (Face detection)
-face-api.js / face_recognition (depending on implementation)
-uuid, validator, etc.
-📁 Project Structure
-Face_Recognition_Attendance_System/
-│
-├── client/               # Frontend UI
-├── server/               # Backend API
-│   ├── routes/          # API routes
-│   ├── uploads/         # Face images storage
-│   ├── node_modules/
-│   └── package.json
-│
-├── database.sql         # MySQL database setup
-└── README.md
 
+face-api.js / face_recognition (depending on implementation)
+
+uuid, validator, etc.
 
 🎯 How It Works
 
