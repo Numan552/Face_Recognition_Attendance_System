@@ -46,15 +46,29 @@ Face_Recognition_Attendance_System/
 │
 ├── database.sql         # MySQL database setup
 └── README.md
+
+
 🎯 How It Works
+
 Admin registers a user with face data
+
 System stores face encodings in database
+
 Camera captures live face
+
 System matches face with database
+
 Attendance is marked automatically
+
+
 📌 Future Improvements
+
 Cloud database integration
+
 Mobile app support
+
 AI-based emotion detection
+
 Face liveness detection (anti-spoofing)
+
 Better UI dashboard
